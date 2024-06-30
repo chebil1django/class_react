@@ -54,7 +54,7 @@ class App extends Component {
           </div>
         )}
 
-       {/* <p>Time since component mounted: {Math.round((new Date() - mountedTime) / 1000)} seconds</p> */}
+
       </div>
     );
   }
