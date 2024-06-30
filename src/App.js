@@ -50,7 +50,7 @@ class App extends Component {
             <img src={imgSrc} alt="Person" />
             <h2>{fullName}</h2>
             <p>{bio}</p>
-            <p>Prodession: {profession}</p>
+            <p>Profession: {profession}</p>
           </div>
         )}
 
